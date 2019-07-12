@@ -1,0 +1,9 @@
+version: '3'
+services:
+  present:
+    build: .
+    ports:
+    - "3999:3999"
+    volumes:
+    - .:/talk
+    
