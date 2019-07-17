@@ -98,6 +98,23 @@ There are also three common reasons why something shouldn’t be measured.
 # The Concept of Measurement
 ## Definition of Measurement
 
+.boxed[
+A **quantitatively** expressed **reduction of uncertainty** based on one or more **observations**.    
+]
+---
 
-Measurement: A **quantitatively** expressed **reduction of uncertainty** based on one or more **observations**.
+# A Variety of Measurement Scales
+.footnote[Stanley Smith Stevens wrote an article called “On the Theory of Scales and Measurement.”]
+
+--
+- .red[**Nominal**] measurements are simply “set membership” statements. Ejem  male or famele
+
+--
+- .red[**Ordinal**] scales, however, allow us to say one value is “more” than another, but not by how much. Ejem. 5 stars rating
+
+--
+- .red[**Interval**], the gaps between the numbers are comparable, Zero is relative. ºC
+
+--
+- .red[**Ratio**] can be added, subtracted, multiplied, and divided in a way that makes sense. Zero is relative. ºF, money
 
