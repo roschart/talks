@@ -92,19 +92,16 @@
 
 <body>
   <textarea id="source">
-
-
-
-    </textarea>
+  </textarea>
   <script src="https://remarkjs.com/downloads/remark-latest.min.js">
   </script>
   <script>
     var slideshow = remark.create({
       sourceUrl: 'measure.md'
     });
-    on = true
+    reload = true
     setInterval(() => {
-      if (on) {
+      if (reload) {
         slideshow.loadFromUrl('measure.md')
       }
     }, 100)

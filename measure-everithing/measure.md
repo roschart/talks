@@ -118,3 +118,10 @@ A **quantitatively** expressed **reduction of uncertainty** based on one or more
 --
 - .red[**Ratio**] can be added, subtracted, multiplied, and divided in a way that makes sense. Zero is relative. ºF, money
 
+---
+# Bayesian Measurement: A Pragmatic Concept for Decisions
+
+agad
+
+---
+
