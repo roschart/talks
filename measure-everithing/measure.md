@@ -32,14 +32,22 @@ class: inverse
 ---
 
 # The Challenge of Intangibles
-- Decision makers usually have imperfect information (i.e., uncertainty) about the best choice for a decision.
-- These decisions should be modeled quantitatively because quantitative models have a favorable track record compared to unaided expert judgment.
-- Measurements inform uncertain decisions.
-- For any decision or set of decisions, there is a large combination of things to measure and ways to measure them—but perfect certainty is rarely a realistic option.
+
 --
+* **Decision makers** usually have **imperfect information** (i.e., uncertainty) about the best choice for a decision.
 
-## In other words, we needs a method to analyze options for reducing uncertainty about decisions.
+--
+*  These decisions should be **modeled quantitatively** because quantitative models have a favorable track record compared to **unaided expert** judgment.
 
+--
+*  Measurements **inform** uncertain decisions.
+
+--
+*  For any decision or set of decisions, there is a large combination of **things to measure** and **ways to measure** them—but perfect certainty is rarely a realistic option.
+--
+.boxed[
+## In other words, we needs a method to analyze options for **reducing uncertainty** about **decisions**.
+]
 ---
 
 class: inverse
@@ -50,17 +58,19 @@ twenty-two minutes to make sense of something that most people would give up on 
 thirty seconds.
 
     —Malcolm Gladwell, Outliers: The Story of Success
+
 ---
 # An Intuitive Measurement Habit: Eratosthenes, Enrico, and Emily
  
-
-- In ancient Greece, a man estimated the circumference of Earth by looking at the lengths of shadows in different cities at noon and by applying some simple geometry.
 --
+* In ancient Greece, a man **estimated** the circumference of Earth by **looking** at the lengths of shadows in different cities at noon and by applying some simple geometry.
 
-- A Nobel Prize–winning physicist taught his students how to estimate values initially unknown to them like the number of piano tuners in Chicago.
+
 --
+* A Nobel Prize–winning physicist taught his students how to **estimate** values initially unknown to them like the number of piano tuners in Chicago.
 
-- A nine-year-old girl set up an experiment that debunked the growing medical practice of “therapeutic touch” and, two years later, became the youngest person ever to be published in the Journal of the American Medical Association (JAMA).
+--
+* A nine-year-old girl **set up an experiment** that debunked the growing medical practice of “therapeutic touch” and, two years later, became the youngest person ever to be published in the Journal of the American Medical Association (JAMA).
 
 ---
 
@@ -69,13 +79,13 @@ There are just three reasons why people think that something can’t be measured
 
 --
 
-- .resaltar[Concept] of measurement. The definition of measurement itself is widely misunderstood. If one understands what “measurement” actually means, a lot more things become measurable.
+- **Concept** of measurement. The definition of measurement itself is widely misunderstood. If one understands what “measurement” actually means, a lot more things become measurable.
 --
 
-- .resaltar[Object] of measurement. The thing being measured is not well defined. Sloppy and ambiguous language gets in the way of measurement.
+- **Object** of measurement. The thing being measured is not well defined. Sloppy and ambiguous language gets in the way of measurement.
 --
 
-- .resaltar[Methods] of measurement. Many procedures of empirical observation are not well known. If people were familiar with some of these basic methods, it would become apparent that many things thought to be immeasurable are not only measurable but may already have been measured.
+- **Methods** of measurement. Many procedures of empirical observation are not well known. If people were familiar with some of these basic methods, it would become apparent that many things thought to be immeasurable are not only measurable but may already have been measured.
 
 
 ---
@@ -85,19 +95,20 @@ There are also three common reasons why something shouldn’t be measured.
 
 --
 
-- The economic objection to measurement (i.e., any measurement would be too expensive).
+* The **economic** objection to measurement (i.e., any measurement would be too expensive).
 --
 
-- The general objection to the usefulness and meaningfulness of statistics (i.e., “You can prove anything with statistics”).
+* The **general** objection to the usefulness and meaningfulness of statistics (i.e., “You can prove anything with statistics”).
 --
 
-- The ethical objection (i.e., we shouldn’t measure it because it would be immoral to measure it).
+* The **ethical** objection (i.e., we shouldn’t measure it because it would be immoral to measure it).
 
 ---
 
 # The Concept of Measurement
 ## Definition of Measurement
 
+--
 .boxed[
 A .resaltar[quantitatively] expressed **reduction of uncertainty** based on one or more **observations**.    
 ]
@@ -107,16 +118,16 @@ A .resaltar[quantitatively] expressed **reduction of uncertainty** based on one 
 .footnote[Stanley Smith Stevens wrote an article called “On the Theory of Scales and Measurement.”]
 
 --
-- .**Nominal** measurements are simply “set membership” statements. Ejem  male or famele
+* **Nominal** measurements are simply “set membership” statements. Ejem  male or famele
 
 --
-- **Ordinal** scales, however, allow us to say one value is “more” than another, but not by how much. Ejem. 5 stars rating
+* **Ordinal** scales, however, allow us to say one value is “more” than another, but not by how much. Ejem. 5 stars rating
 
 --
--  **Interval**, the gaps between the numbers are comparable, Zero is relative. ºC
+*  **Interval**, the gaps between the numbers are comparable, Zero is relative. ºC
 
---
-- **Ratio** can be added, subtracted, multiplied, and divided in a way that makes sense. Zero is relative. ºF, money
+
+* **Ratio** can be added, subtracted, multiplied, and divided in a way that makes sense. Zero has meaning. ºK, money
 
 ---
 # Bayesian Measurement: A Pragmatic Concept for Decisions
@@ -138,17 +149,20 @@ There is no greater impediment to the advancement of knowledge than the ambiguit
     —Thomas Reid (1710–1769), Scottish philosopher
 
 .boxed[
-    If someone asks how to measure “strategic alignment” or “flexibility” or “customer satisfaction,” I simply ask: “What do you mean, exactly?”
+    If someone asks how to measure **strategic alignment** or **flexibility** or **customer satisfaction,** I simply ask: **What do you mean**, exactly?
 ]
 ---
 # Clarification Chain
-.boxed[
-* If it matters at all, it is detectable, observable.
 
-* If it is detectable, it can be detected as an amount (or range of possible amounts).
+--
+* If it **matters** at all, it is **detectable**, observable.
 
-* If it can be detected as a range of possible amounts, it can be measured.
-]
+--
+* If it is **detectable**, it can be detected as an **amount** (or range of possible amounts).
+
+--
+* If it can be **detected** as a range of possible amounts, it can be **measured**.
+
 
 ---
 # The Methods of Measurement
@@ -157,16 +171,25 @@ There is no greater impediment to the advancement of knowledge than the ambiguit
  
 --
 .boxed[
- Most of the apparently difficult measurements, however, involve indirect deductions and inferences. We need to infer something “unseen” from something “seen.”
+ Most of the apparently **difficult** measurements, however, involve **indirect deductions and inferences**. We need to infer something `unseen` from something `seen`.
 ]
 
 ---
 # Measurement methods
 
+--
 * Measuring with very small random samples of a very large population
+
+--
 * Measuring the size of a mostly unseen population
+
+--
 * Measuring when many other, even unknown, variables are involved
+
+--
 * Measuring the risk of rare events
+
+--
 * Measuring subjective preferences and values
 
 ---
@@ -178,7 +201,7 @@ Commuting sample: [30, 60, 45, 80, 60]
 
 --
 .boxed[
-What the chance is that the median of the population is between the highest and lowest values in the sample of five (30 and 80)
+What the chance is that the **median** of the population is between the highest and lowest values in the sample of five **(30 and 80)**
 ]
 
 ---
@@ -197,7 +220,7 @@ Balls per box: 1000,
 with randow colors green or red
 
 .boxed[
-    If I can pick 1 ball from a box, what are my chances to guest right?]
+    If I can pick **1 ball** from a box, what are my chances to guest right?]
 
 ---
 class: center, middle, inverse
@@ -213,7 +236,7 @@ Given maximum uncertainty about a population proportion—such that you believe 
 ---
 # Our Small-Sample Intuition versus Math
 
-Our thesis is that people have strong intuitions about random sampling; that these intuitions are wrong in fundamental respects; that these intuitions are shared by naive subjects and by trained scientists; and that they are applied with unfortunate consequences in the course of scientific inquiry.
+Our thesis is that people have **strong intuitions** about random sampling; that these intuitions **are wrong** in fundamental respects; that these intuitions are shared by naive subjects and by trained scientists; and that they are applied with unfortunate consequences in the course of scientific inquiry.
 
     —Kahneman, Tversky
 

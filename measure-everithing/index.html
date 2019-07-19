@@ -50,39 +50,21 @@
     
     .inverse {
       background: #272822;
-      color: #777872;
-      text-shadow: 0 0 20px #333;
+      color: #a9ac9e;
     }
 
     .inverse h1,
     .inverse h2 {
       color: #f3f3f3;
-      line-height: 0.8em;
-    }
-
-
-    /* Two-column layout */
-    .left-column {
-      color: #777;
-      width: 20%;
-      height: 92%;
-      float: left;
-    }
-
-    .right-column {
-      width: 75%;
-      float: right;
-      padding-top: 1em;
     }
 
     .boxed {
       margin: 0 auto;
-      margin-top: 30px;
+      margin-top: 20px;
       padding: 10px;
-      background: #F2F2F2;
+      background: #272822;
+      color: #a9ac9e;
       border: 1px solid #ccc;
-      box-shadow: 1px 1px 2px #fff inset,
-        -1px -1px 2px #fff inset;
       border-radius: 3px/6px;
       font-size: 30px;
       font-family: 'Ubuntu Mono';
@@ -113,7 +95,8 @@
     type="text/javascript"></script>
   <script>
     var slideshow = remark.create({
-      sourceUrl: 'measure.md'
+      sourceUrl: 'measure.md',
+      ratio: '16:9'
     });
 
     MathJax.Hub.Config({
