@@ -121,7 +121,21 @@ A **quantitatively** expressed **reduction of uncertainty** based on one or more
 ---
 # Bayesian Measurement: A Pragmatic Concept for Decisions
 
-agad
+ the Bayesians were just explicitly quantifying the initial state of uncertainty and the change in uncertainty
 
 ---
 
+class: center, middle
+ 
+# `\(\LaTeX{}\)` in remark
+
+---
+ 
+# Display and Inline
+ 
+1. This is an inline integral: `\(\int_a^bf(x)dx\)`
+2. More `\(x={a \over b}\)` formulae.
+
+Display formula:
+
+$$e^{i\pi} + 1 = 0$$
