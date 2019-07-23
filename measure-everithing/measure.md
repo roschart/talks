@@ -243,3 +243,187 @@ Our thesis is that people have **strong intuitions** about random sampling; that
 ---
 class:  middle, inverse,  justify
 # Are you trying to get published in a peer-reviewed journal, or are you just trying to **reduce your uncertainty** about a **real-life** business decision?
+
+
+
+---
+class:  middle, inverse, center
+
+# Clarifying the Measurement Problem
+
+---
+# Prior to measure
+
+--
+* **What is the decision** this measurement is supposed to support?
+
+--
+* What is the **definition** of the thing being measured in terms of **observable consequences** and how, exactly, does this thing matter to the decision being asked?
+
+--
+* **How much do you know about** it now
+
+--
+* How does **uncertainty** about this variable **create risk** for the decision?
+
+--
+* What is the value of **additional information**?
+
+---
+
+# Toward a Universal Approach to Measurement
+
+--
+1.  Define a **decision problem** and the relevant uncertainties. **What is your dilemmma?**
+
+--
+1. Determine what you know **now**. This is done by learning how to describe your uncertainty in terms of **ranges and probabilities**. 
+
+--
+1.  Compute the value of **additional information**. 
+    
+    If there are no variables with information values that justify the cost of any measurement approaches, skip to step 5.
+
+--
+1. Apply the **relevant** measurement instrument(s) to **high-value** measurements. 
+   
+   Repeat 3
+
+--
+1. Make a **decision** and **act** on it
+   
+   Repeat 1
+
+---
+class: inverse,middle,center
+# Dashboards and Decisions: Do They Go Together?
+
+--
+## A dashboard can definitely be a very powerful tool.
+
+--
+## It is also routinely a wasted resource.
+
+--
+.boxed[
+    The data on the dashboard was **usually not selected** with specific **decisions** in mind based on specific conditions for **action**
+]
+
+
+---
+class: inverse, middle
+
+.boxed.justify[
+We discovered that it was difficult for researchers to think about measurements in terms of **specific decisions** their research would support and the specifics of alternative interventions that they might recommend. Previously, research managers would urge researchers to identify which variables they should be measuring **to track progress** towards achieving development goals, but without reference to any specific decision. They are used to thinking about **how to measure quantities of interest, but not why**.
+    
+    Dr. Shepherd
+]
+
+---
+# Requirements for a Decision
+
+--
+* A decision has two or more **realistic alternatives**. 
+
+--
+* A decision has **uncertainty**. _There have to be two or more choices and the best choice is not certain_.
+
+--
+* A decision has potentially **negative consequences** if it turns out you took the wrong position.
+
+--
+* A decision has a **decision maker**. 
+
+
+---
+# Potential Forms of a Decision
+
+--
+* A decision can be **one big** thing or **many little** things.
+
+--
+* A decision can be about a **discrete** or **continuous** choice.
+
+--
+* Decisions can be with **one or many** stakeholders including **collaborating and/or competing** parties.
+
+---
+# If You Understand It, You Can Model It
+A decision has to be defined well enough to be modeled quantitatively.
+.boxed[
+## A Ridiculously Simple (But Completely Legitimate) Decision Model
+
+* Estimated Costs of Action X.
+* Estimated Benefits of Action X.
+* If Benefits of Action X exceed Costs of Action X, execute Action X.
+
+(Now just decompose costs and benefits into more detail as needed.)
+]
+
+---
+class: inverse, middle, justify
+# Essentially, all models are **wrong**, but some are **useful**.
+
+    George Box 
+
+---
+# Definitions for Uncertainty, Risk, and Their Measurements
+
+--
+* **Uncertainty**: The **lack** of complete certainty, that is, the existence of more than one possibility. The “true” outcome/state/result/value is not known.
+
+--
+* **Measurement of Uncertainty**: A set of **probabilities** assigned to a set of possibilities. For example: “There is a 60% chance this market will more than double in five years, a 30% chance it will grow at a slower rate, and a 10% chance the market will shrink in the same period.”
+
+--
+* **Risk**: A state of uncertainty where some of the **possibilities** involve a loss, catastrophe, or other **undesirable outcome**.
+
+--
+* **Measurement of Risk**: A set of **possibilities** each with **quantified probabilities** and **quantified losses**. For example: “We believe there is a 40% chance the proposed oil well will be dry with a loss of $12 million in exploratory drilling costs.”
+
+---
+
+# An Example of a Clarified Decision
+
+---
+class: inverse, middle, center
+.big[
+    IT Security
+]
+---
+class: center, middle
+# What is IT Security
+
+---
+## Security Systems
+* Public Key Infrastructure (key encryption/ decryption, etc.)
+* Biometric/single sign-on (fingerprint readers, security card readers, etc.)
+* Intrusion-detection systems
+* Security-compliance ertification program for new systems
+* New antivirus software
+* Security incident reporting system
+* Additional security training
+
+---
+## Events Averted or Reduced
+* Pandemic virus  attacks
+* Unauthorizedsystem access: external (hackers) or internal (employees)
+* Unauthorized physical access to facilities or property
+* Other disasters: fire, flood, tornado,etc. 	
+
+---
+## Costs Averted
+* Productivity losses
+* Fraud losses
+* Legal liability/improper disclosure
+* Interference with mission
+
+---
+# Estimates for the Effects of Virus Attacks
+* Agency-wide virus attacks per year (for the next five years) 	**2 	4**
+* Average number of people affected 	**25,000 	65,000**
+* Percentage productivity loss 	**15% 	60%**
+* Average duration of productivity loss 	**4 hours 	12 hours**
+* Loaded annual cost per person (most affected staff would be in the lower pay scales) 	**$50,000 	$100,000**
+
+.footNote[The values is 90% likely to fall between or be equal to these points]
