@@ -427,3 +427,26 @@ class: center, middle
 * Loaded annual cost per person (most affected staff would be in the lower pay scales) 	**$50,000 	$100,000**
 
 .footNote[The values is 90% likely to fall between or be equal to these points]
+
+---
+class: inverse, middle, center
+#Calibrated Estimates: How Much Do You Know Now?
+
+--
+.boxed[
+## The most important questions of life are indeed, for the most part, really only problems of probability.
+    —Pierre Simon Laplace, Théorie Analytique des Probabilités, 1812
+]
+
+---
+## Two Extremes of Subjective Confidence
+.boxed[
+**Overconfidence**: When an individual routinely overstates knowledge and is correct less often than he or she expects. For example, when asked to make estimates with a 90% confidence interval, far fewer than 90% of the true answers fall within the estimated ranges.
+
+**Underconfidence**: When an individual routinely understates knowledge and is correct much more often than he or she expects. For example, when asked to make estimates with a 90% confidence interval, far more than 90% of the true answers fall within the estimated ranges.
+]
+
+---
+class: center
+
+![confidence interval](confidence-interval.png) 
