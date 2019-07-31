@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {{ partial "style.html" . }}
+</head>
+<body>
+<textarea id="source">
+{{ .RawContent }}
+</textarea>
+    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_HTML&delayStartupUntil=configured"
+      type="text/javascript">
+    </script>
+    <script>
+      var slideshow = remark.create({
+        ratio: '16:9'
+      });
+      
+      MathJax.Hub.Config({
+            tex2jax: {
+              skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+            }
+          });
+      MathJax.Hub.Configured();
+    </script>
+</body>
+</html>

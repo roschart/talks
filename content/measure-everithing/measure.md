@@ -1,3 +1,12 @@
+---
+title: 'Measure Everything '
+description: "Resumen del libro"
+date: "2019-07-03"
+tags: ["measure"]
+---
+
+
+
 class: center, middle, inverse
 
 # How to Measure Anything
