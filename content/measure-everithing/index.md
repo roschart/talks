@@ -429,11 +429,11 @@ class: center, middle
 
 ---
 # Estimates for the Effects of Virus Attacks
-* Agency-wide virus attacks per year (for the next five years) 	**2 	4**
-* Average number of people affected 	**25,000 	65,000**
-* Percentage productivity loss 	**15% 	60%**
-* Average duration of productivity loss 	**4 hours 	12 hours**
-* Loaded annual cost per person (most affected staff would be in the lower pay scales) 	**$50,000 	$100,000**
+* Agency-wide virus attacks per year (for the next five years) 	**2-4**
+* Average number of people affected **25,000-65,000**
+* Percentage productivity loss **15%-60%**
+* Average duration of productivity loss **4 hours-12 hours**
+* Loaded annual cost per person (most affected staff would be in the lower pay scales) **$50,000-$100,000**
 
 .footNote[The values is 90% likely to fall between or be equal to these points]
 
@@ -442,7 +442,7 @@ class: inverse, middle, center
 #Calibrated Estimates: How Much Do You Know Now?
 
 --
-.boxed[
+.boxed.justify[
 ## The most important questions of life are indeed, for the most part, really only problems of probability.
     —Pierre Simon Laplace, Théorie Analytique des Probabilités, 1812
 ]
@@ -459,3 +459,143 @@ class: inverse, middle, center
 class: center
 
 ![confidence interval](confidence-interval.png) 
+
+---
+# Further Improvements on Calibration
+
+.boxed.justify[
+    The academic research so far indicates that **training** has a **significant effect** on calibration]
+
+---
+class: inverse, center , middle
+# Quantifying Risk through Modeling
+
+--
+.boxed.justify[
+## It is better to be approximately right than to be precisely wrong.
+
+    —Warren Buffett]
+
+---
+class: inverse, center, middle
+
+.formula[$$ uncertainty \neq risk $$]
+
+---
+# How Not to Quantify Risk
+* Many organizations simply say a risk is **high**, **medium**, or **low**.
+* Scale of **1** to **5**. 
+
+---
+# Real Risk Analysis: The Monte Carlo
+
+.center[![montecarlo](montecarlo.png) ]
+
+---
+# An Example of the Monte Carlo Method and Risk
+
+## Leasing a new machine $400,000/year
+
+* Maintenance savings (MS): $10 to $20 per unit
+* Labor savings (LS): –$2 to $8 per unit (note the negative lower bound)
+* Raw materials savings (RMS): $3 to $9 per unit
+* Production level (PL): 15,000 to 35,000 units per year
+* Annual lease (breakeven): $400,000
+
+---
+class: center
+# Now you compute your annual savings very simply as:
+$$ Annual Savings = (MS + LS + RMS) × PL $$
+.justify[
+If we just take the midpoint of each of these ranges, we get:
+
+$$ Annual savings = ($15 + $3 + $6) × 25,000 = $600,000 $$
+]
+
+---
+# Normal distribution
+.center[![normal distribution](normal.png) ]
+
+--
+* Values in the middle are more likely that values farther away
+
+--
+* The distribution is simetrical
+
+--
+* Ther is no hard stop
+
+$$ = norminv(rand(), mean, standar desviation) $$
+
+---
+# Simulation
+.center[![simulation](simulation.png)]
+
+---
+# Histogram
+.center[![Histogram](histogram.png)]
+
+---
+# Results
+* **14%** of the results were less than the $400,000
+* There is a **3.5%** chance that the factory will lose more than **$100,000** per year
+
+---
+# A shortcut can apply in some situations. If we had all normal distributions 
+
+$$ interval= \sqrt{\sum(max - med)^2} $$
+$$ interval= \sqrt59 $$
+$$ interval = $7.68 $$
+$$ Total up the means: $15 + $3 + $6= $24 $$
+
+So the 90% CI for the sum of all three 90% CIs for maintenance, labor, and materials is **$16.32** to **$31.68**.
+
+**Optimistic** values for an upper bound and **pessimistic** values for the lower bound. This would result in a range of **$11** to **$37** 
+
+---
+# Lets add some binary event to our model
+
+.boxed.justify[
+    What if there was a **10%** chance of a loss of a major account that would, by itself, **drop the demand** (and therefore the production levels) by 1,000 units per month (i.e., **12,000** units per year)?
+]
+
+
+
+$$ PLw \mid contract loss = PLnormal − 1,000 units × (Contract Loss × Month Remaining) $$
+
+---
+# Uniform distibution
+.center[![uniform distribution](uniform-distribution.png) ]
+
+--
+* All values between the bounds are equally likely
+
+--
+* The distribution is simetrical
+
+--
+* Ther is hard stop
+
+--
+
+$$ = rand()*(UB-LB)+LB $$
+
+---
+# Advance topics
+* More distributions
+* Correlations
+* Markov simulations
+* Agent simulations
+
+---
+class: inverse, middle
+
+.boxed[
+# Risk Paradox
+
+If an organization uses quantitative risk analysis at all, it is usually for routine operational decisions. The largest, most risky decisions get the least amount of proper risk analysis.
+]
+
+---
+class: inverse, middle, center
+# Quantifying the Value of information 
