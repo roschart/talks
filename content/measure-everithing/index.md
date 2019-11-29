@@ -593,9 +593,71 @@ class: inverse, middle
 .boxed[
 # Risk Paradox
 
-If an organization uses quantitative risk analysis at all, it is usually for routine operational decisions. The largest, most risky decisions get the least amount of proper risk analysis.
-]
+If an organization uses quantitative risk analysis at all, it is usually for routine operational decisions. The largest, most risky decisions get the least amount of proper risk analysis.]
 
 ---
 class: inverse, middle, center
-# Quantifying the Value of information 
+# Quantifying the Value of information
+
+---
+class: inverse, middle
+.boxed[
+# The McNamara Fallacy
+
+“The first step is to measure whatever can be **easily measured**. This is **okay as far as it goes**. The second step is to **disregard that which can’t easily be measured** or to give it an **arbitrary** quantitative value. This is **artificial and misleading**. The third step is to **presume that what can’t be measured easily isn’t important**. This is **blindness**. The fourth step is to say that **what can’t easily be measured really doesn’t exist**. This is **suicide**.”
+
+—Charles Handy, The Empty Raincoat (1995), describing the Vietnam-era measurement policies of Secretary of Defense Robert McNamara
+]---
+
+# Information value
+* Information reduces uncertainty about decisions that have economic consequences.
+* Information affects the behavior of others, which has economic consequences.
+* Information sometimes has its own market value.
+---
+
+# A Common Measurement Myth
+
+## Myth: 
+When you have a lot of uncertainty, you need a lot of data to tell you something useful.
+
+## Fact: 
+If you have a lot of uncertainty now, you don’t need much data to reduce uncertainty significantly. When you have a lot of certainty already, then you need a lot of data to reduce uncertainty significantly.
+
+.boxed[
+    In other words—if you know **almost nothing**, almost **anything will tell you something**.]
+---
+# The Effect of Time Sensitivity on EVPI and EVI
+.center[![EVI](EVI.jpg)]
+
+???
+* EVI Expected value information
+* EVPI Expected value perfect information
+* ECI eXPECTED cost of information
+---
+
+# Information Values for Multiple Variables
+* Its complex
+* Simultations with montercarlos is good aprouch
+---
+
+# The Epiphany Equation: How the Value of Information Changes Everything
+
+* The vast majority of variables in almost all models had an information value of zero. That is, **the current level of uncertainty about most variables was acceptable**, and no further measurement was justified.
+* The variables that had high information values were routinely those that the client never measured. In fact, the **high-value variables often were completely absent** from previous business cases.
+* The variables that **clients used to spend the most time measuring were usually those with a very low (even zero) information value**
+---
+
+# Measurement inversion
+## Low-Value and Typical measurements
+* Time spend in an activity
+* Attendance to sales training
+* Near-term costo of a project
+* Number of violations found in safety inspections
+---
+
+# Measurement inversion
+## Hig-value, Usuarlly ignored
+* Value of an activity
+* Effects of sales trining on sales
+* Long-term benefits of a project
+* Reduction in risk of catastrophic accidents
