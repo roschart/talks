@@ -439,7 +439,7 @@ class: center, middle
 
 ---
 class: inverse, middle, center
-#Calibrated Estimates: How Much Do You Know Now?
+# Calibrated Estimates: How Much Do You Know Now?
 
 --
 .boxed.justify[
@@ -661,3 +661,25 @@ If you have a lot of uncertainty now, you don’t need much data to reduce uncer
 * Effects of sales trining on sales
 * Long-term benefits of a project
 * Reduction in risk of catastrophic accidents
+---
+
+class: inverse, middle, center
+#  The Transition: From What to Measure to How to Measure
+---
+
+# Tools of Observation: Introduction to the Instrument of Measurement
+0. Instruments detect what you can’t detect. 
+0. Instruments are more consistent
+0. Instruments can be calibrated to account for error
+0. An instrument often includes a method for offsetting a particular error, which is often called a “control.” 
+0. Instruments deliberately don’t see some things.
+0. Instruments record
+0. Instruments take a measurement faster and cheaper than a human.
+---
+
+class: inverse
+# Tools of Observation: Introduction to the Instrument of Measurement
+0. It’s been done before—don’t reinvent the wheel.
+0. You have access to more data than you think—it might just involve some resourcefulness and original observations.
+0. You need less data than you think, if you are clever about how to analyze it.
+0. An adequate amount of new data is probably more accessible than you first thought.
