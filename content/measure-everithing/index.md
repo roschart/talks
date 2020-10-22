@@ -683,3 +683,45 @@ class: inverse
 0. You have access to more data than you think—it might just involve some resourcefulness and original observations.
 0. You need less data than you think, if you are clever about how to analyze it.
 0. An adequate amount of new data is probably more accessible than you first thought.
+---
+
+# Decomposition
+
+.boxed[
+## Decompose It
+
+Many measurements start by decomposing an uncertain variable into constituent parts to **identify directly observable things** that are easier to measure
+]
+---
+
+# Decomposition
+.boxed[
+## Decomposition effect
+
+The phenomenon that the decomposition itself sometimes turns out to provide such a sufficient reduction in uncertainty that further uncertainty reduction through new observations are not required.
+]
+--
+
+# 
+
+**About 25%** of the high-value measurements were addressed with **decomposition alone**.
+---
+
+# Secondary Research: Assuming You Weren’t the First to Measure It
+.boxed[
+## Research of existing literature
+Assume someone measured the item in question, something close to it, or at least used a method that inspires a solution to the current problem.
+]
+---
+
+# The Basic Methods of Observation: If One Doesn’t Work, Try the Next
+
+1. **Follow its trail** like a clever detective. Do forensic analysis of data you already have.
+2. Use **direct observation**. Start looking, counting, and/or sampling if possible.
+3. If it hasn’t left any trail so far, **add a “tracer”** to it so it starts leaving a trail.
+4. If you can’t follow a trail at all, **create the conditions** to observe it (an **   **).
+---
+
+# Measure Just Enough
+
+(Continuar en https://learning.oreilly.com/library/view/how-to-measure/9781118836446/c08.xhtml#container) measure just enoug
