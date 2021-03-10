@@ -724,4 +724,17 @@ Assume someone measured the item in question, something close to it, or at least
 
 # Measure Just Enough
 
-(Continuar en https://learning.oreilly.com/library/view/how-to-measure/9781118836446/c08.xhtml#container) measure just enoug
+- **Diminishing returns**. The first 100 samples reduce uncertainty much more than
+the second 100.
+- Initial measurements often change the value of continued measurement and the
+value of **continuing the measurement may drop to zero**
+---
+
+# Consider the Error.
+- All measures have errors.
+- To types of erors.
+  - Systemic.
+  - Random.
+- Use ramdom samples vs total census.
+
+# NEXT Chapter 9
